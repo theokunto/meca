@@ -93,7 +93,7 @@ body {
   background: var(---background-color)
 }
 div {
-  padding: 0px;
+  padding: 16px;
   margin-top: 16px;
 }
 p {
