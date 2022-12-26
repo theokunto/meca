@@ -12,7 +12,7 @@ export default function Home() {
         <title>Meca</title>
         <meta name="description" content="Meca" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <link rel="icon" href="/mecalogo.ico" />
+        <link rel="icon" href="/favicon.ico" />
       </Head>
       <main className={styles.main}>
         <div className={styles.description}>
