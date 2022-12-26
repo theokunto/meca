@@ -16,7 +16,7 @@ export default function Help() {
                 <p>
                     In particular, we have committed as an integral component of our ongoing app development process and
                     policies to conformance with generally recognized and accepted guidelines and/or standards for app
-                    accessibility (the "Standards"), which are currently at least the Meca app built with Javascript.
+                    accessibility (the &quot;Standards&quot;), which are currently at least the Meca app built with Javascript.
                 </p>
                 <p>
                     While these Standards may change and/or evolve over time, it has been and continues to be our
